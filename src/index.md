@@ -1,5 +1,9 @@
 ---
-title: Home
-layout: home
+title: JSON bases
+layout: base
 ---
-This is the home page.
+Object: {"key": "value"}  
+Array: ["value1", "value2"]
+
+- A key is always a string
+- A value can be: string, number, object, array, true/false, null
